@@ -1,0 +1,83 @@
+.navbar-custom {
+  background-color: #110082;
+}
+
+.navbar-brand img {
+  border-radius: 50%;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.carousel-item img,
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.carousel-item {
+  background-color: #090044;
+}
+
+.card {
+  height: 100%;
+  background-color: #110082;
+  border: black solid 3px;
+  margin-top: 8px;
+  color: white;
+}
+
+.card-body {
+  overflow: auto;
+}
+
+body {
+  background-color: #090044;
+  color: white;
+}
+
+.mt-5 {
+  margin-top: 5rem !important;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-white {
+  color: white !important;
+}
+#ancla3 {
+  margin: 0 auto;
+}
+
+#ancla3 th,
+#ancla3 td {
+  text-align: center;
+}
+
+.table {
+  border: rgb(255, 255, 255) solid 3px;
+}
+
+.text-white {
+  color: white;
+}
+
+.mt-5 {
+  margin-top: 5rem;
+}
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: cyan;
+}
+.floating-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
